@@ -4,8 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # carregando a base de dados e criando um dataframe
-car_data = pd.read_csv(
-    'C:\\Users\\daniz\\OneDrive\\Documentos\\Cursos\\TripleTen Data Science\\Sprint 5 Programação\\Projeto\\vehicles\\vehicles.csv')  # lendo os dados
+car_data = pd.read_csv('vehicles.csv')  # lendo os dados
 df_car_data = car_data
 
 # Criar o header
