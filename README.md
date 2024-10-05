@@ -1,5 +1,19 @@
+# Used Car Streamlit App
+
+## Table of Contents
+- [Used Car Streamlit App](#used-car-streamlit-app)
+  - [Table of Contents](#table-of-contents)
+  - [Project Objective](#project-objective)
+  - [Project Structure](#project-structure)
+  - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
+  - [Specific Results and Outcomes](#specific-results-and-outcomes)
+  - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+
+
 ## Project Objective
 The objective of this project is to perform an Exploratory Data Analysis (EDA) on a dataset containing car listings and to build an interactive web application using Streamlit. The web app enables visualization of key metrics like car prices, mileage, and distribution of other attributes to gain insights into the data.
+
+[back to top](#used-car-streamlit-app)
 
 ## Project Structure
 
@@ -19,7 +33,9 @@ Interactive Web Application with Streamlit:
 - A histogram visualizing car prices, ranging from $0 to $60,000.
 - A scatter plot depicting the relationship between car price and mileage, with an option to include a trendline.
 
-**Tools and Techniques Utilized**
+[back to top](#used-car-streamlit-app)
+
+## Tools and Techniques Utilized
 - Python Libraries:
   - pandas: Used for data manipulation, handling missing values, and providing descriptive statistics.
   - plotly-express: Created interactive visualizations such as histograms and scatter plots to explore the dataset.
@@ -32,6 +48,8 @@ Interactive Web Application with Streamlit:
 
 **Web Application Development:**
 - Built a Streamlit app with interactive elements like buttons and checkboxes to generate visualizations based on user input.
+
+[back to top](#used-car-streamlit-app)
 
 ## Specific Results and Outcomes
 
@@ -58,8 +76,9 @@ Interactive Web Application with Streamlit:
 - The app was deployed on Render, allowing users to interact with the car listings data in real-time. It provided a smooth experience for generating plots and understanding the data without requiring any programming knowledge.
 - Checkbox controls were added as an alternative to buttons, enhancing the user experience by allowing multiple chart types to be generated seamlessly.
 
+[back to top](#used-car-streamlit-app)
 
-## What I Have Learned From This Project (Skills and Competences)
+## What I Have Learned From This Project
 
 **Data Analysis Skills:**
 - Efficiently handled a real-world dataset with missing values and extracted insights using descriptive statistics and visual exploration.
