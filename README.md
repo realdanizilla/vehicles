@@ -8,6 +8,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to Use This Repository](#how-to-use-this-repository)
 
 
 ## Project Objective
