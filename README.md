@@ -95,3 +95,26 @@ Interactive Web Application with Streamlit:
 URL for app on render: https://vehicles-pawu.onrender.com
 
 [back to top](#used-car-streamlit-app)
+
+## How to Use This Repository
+
+1. **Clone the Repository**<br>
+git clone [https://github.com/realdanizilla/vehicles.git](https://github.com/realdanizilla/vehicles.git)
+
+2. **Review the Jupyter Notebooks**
+Explore the provided notebook to understand the data exploration process.
+
+3. **Execute the application**
+Execute app.py to generate streamlit application
+
+4. **Deploy application**
+Host the application on your preferred provider. This instance was deployed on render.com
+
+5. **Access application**
+Use [this link](https://vehicles-pawu.onrender.com) to access the application
+
+6. **Extract Insights**
+Use the application to visualize vehicle data and analyze the price and related features.
+
+
+[back to top](#used-car-streamlit-app)
